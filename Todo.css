@@ -108,7 +108,7 @@ ul.initialTodoStart
     }
 
     & button.closeButton:hover{
-        background-color: #f44336;
+        background-color: blue;
         color: white
     }
 }
