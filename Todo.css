@@ -11,7 +11,7 @@ div.mainHeading{
     text-align: center;
     & H1{
         color: rgb(158, 78, 145) ;
-        font-size: 31px;
+        font-size: 32px;
         padding-top: 32px;
     }
 }
