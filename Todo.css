@@ -3,14 +3,14 @@
     padding: 0;
 }
 div.mainDiv{
-    background-color: #f20707;
+    background-color: #71cfab;
     padding-bottom: 30px;
 }
 
 div.mainHeading{
     text-align: center;
     & H1{
-        color: whitesmoke;
+        color: rgb(158, 78, 144) ;
         font-size: 30px;
         padding-top: 30px;
     }
